@@ -123,12 +123,12 @@ $(document).ready(function() {
   });
 
   // Magnific Popup Settings
-  $('.mix').magnificPopup({
-    type: 'image',
-    image: {
-      titleSrc: 'title'
-    }
-  });
+  // $('.mix').magnificPopup({
+  //   type: 'image',
+  //   image: {
+  //     titleSrc: 'title'
+  //   }
+  // });
 
   // Vide - Video Background Settings
   $('header.video').vide({
